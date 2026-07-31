@@ -246,7 +246,9 @@ footer {
 #twentynine { background-image: url("./images/29.png"); }
 #thirty { background-image: url("./images/30.png"); }
 #thirtyone { background-image: url("./images/31.png"); }
-#thirtytwo { background-image: url("./images/32.png"); }
+/* ==== Плаваючі іконки зліва ==== */
+#thirtytwo { background-image: url("./images/1_1.png"); }
+#thirtytwo { background-image: url("./images/2_2.png"); }
 
 /* ========================================================= */
 /* === Горизонтальні «іконки‑посилання» для .text-links === */
